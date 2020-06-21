@@ -1,0 +1,7 @@
+
+[
+java:S1128">Remove this unused import 'jdk.nashorn.internal.parser.Token'.(çÓ»ô8¶Êú¿¬.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Áûåá8ÌÄÀ—¬.
+›
+java:S1130'"yRemove the declaration of thrown exception 'org.apache.shiro.authc.AuthenticationException' which is a runtime exception.(Ë´ã›ùÿÿÿÿ8â¹º—¬.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(äƒ«ÿÿÿÿÿ8ÖÁ—¬.
